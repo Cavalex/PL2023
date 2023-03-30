@@ -157,7 +157,6 @@ program myFact{
     print(i, fact(i));
   }
 }
-
 '''
 
 lexer.input(data)
